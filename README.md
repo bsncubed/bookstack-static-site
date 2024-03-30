@@ -24,7 +24,7 @@ This script is a slight modification of [this script](https://github.com/BookSta
 
 Download the script
 ```bash
-curl https://gitea.apointless.space/bsncubed/bookstack-static-site/raw/branch/main/book-to-static.php > book-to-static.php
+curl https://raw.githubusercontent.com/bsncubed/bookstack-static-site/main/book-to-static.php > book-to-static.php
 ```
 
 Export Variables
