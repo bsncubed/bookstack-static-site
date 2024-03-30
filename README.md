@@ -1,4 +1,4 @@
-# Book to Static Site
+# Bookstack Book to Static Site
 
 This script will export all chapters and pages within a given book to a folder
 of basic HTML and image files which could act as a static site.
